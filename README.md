@@ -2,9 +2,9 @@
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" weight=200px />
-</div>
-
+<br>
 This is a simple text to text converter that looks like it was handwritten
+</div>
 
 ## Used Modules
 
